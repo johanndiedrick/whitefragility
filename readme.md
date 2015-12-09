@@ -1,6 +1,6 @@
 # White Fragility
 
-`Because talking about race shouldn't see so stressful -_-`
+`Because talking about race shouldn't be so stressful -_-`
 
 Part of the Public Science Winter Residency
 
