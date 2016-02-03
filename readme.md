@@ -1,3 +1,6 @@
+![whitefragility](white_fragility.jpg)
+
+
 # White Fragility
 
 `Because talking about race shouldn't be so stressful -_-`
