@@ -9,7 +9,13 @@ Printable versions of White Fragility in zine form are available here
 (right-click and save as to download):
 
 [Design by
-Alex](https://github.com/jdiedrick/whitefragility/blob/d0cf59ca8be833b2233f24600c7a85d522df347e/designs/2016_02_08/white_fragility_layout_2015_12_20%20(1).pdf)
+Johann](https://drive.google.com/open?id=0B0A_LPl2W2T1alJnNFczMGZhem9WWVVhWDlyTEZHZk1vdmJR)
+
+[Design by
+Alex](https://drive.google.com/open?id=0B0A_LPl2W2T1Wk5yZzZBM1VobFVIQUNNbDlPblc0XzJnRlFr)
+
+[Design by
+Francis](https://drive.google.com/open?id=0B0A_LPl2W2T1YkM3QnpaZkhpdG4xb19GNXVnZU9YRU1xQ1I4)
 
 `Because talking about race shouldn't be so stressful -_-`
 
