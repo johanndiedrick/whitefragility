@@ -1,12 +1,10 @@
 ![whitefragility](white_fragility.jpg)
 
-
 # White Fragility
 
 ## Welcome!
 
-Printable versions of White Fragility in zine form are available here
-(right-click and save as to download):
+Printable versions of White Fragility in zine form are available here:
 
 [Design by
 Johann](https://drive.google.com/open?id=0B0A_LPl2W2T1alJnNFczMGZhem9WWVVhWDlyTEZHZk1vdmJR)
