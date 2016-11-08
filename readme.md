@@ -30,3 +30,5 @@ Folders:
 `designs` - Work in progress designs for the zine
 
 `plain_text` - Plain text verson of PDF
+
+`markdown` - Github flavored Markdown version of plain text
