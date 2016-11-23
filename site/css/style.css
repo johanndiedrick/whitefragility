@@ -22,3 +22,7 @@ a{
 a:hover{
   color: #000000;
 }
+
+img {
+  width: 100%;
+}
