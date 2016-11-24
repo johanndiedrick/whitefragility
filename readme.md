@@ -7,7 +7,7 @@
 ## About
 
 This repo documents my work around distributing Robin DiAngelo's White Fragility
-in zine form. This repo (and the [website](http://w-f.is) offers an easy-to-read
+in zine form. This repo (and the [website](http://w-f.is)) offers an easy-to-read
  and easy-to-share version of Robin DiAngelo's White Fragility. You can read the 
 entire paper, as well as print, assemble and distribute your own White Fragility
  zine.
@@ -40,6 +40,8 @@ Alex](https://drive.google.com/open?id=0B0A_LPl2W2T1Wk5yZzZBM1VobFVIQUNNbDlPblc0
 Francis](https://drive.google.com/open?id=0B0A_LPl2W2T1YkM3QnpaZkhpdG4xb19GNXVnZU9YRU1xQ1I4)
 
 More instructions on how to print can be found on the [website](http://w-f.is)
+
+## Repo Structure (wip)
 
 Folders:
 
