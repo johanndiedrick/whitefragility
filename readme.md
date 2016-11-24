@@ -1,4 +1,4 @@
-![whitefragility](white_fragility.jpg)
+![whitefragility](wf.jpg)
 
 # White Fragility
 
