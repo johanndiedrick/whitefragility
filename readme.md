@@ -2,7 +2,7 @@
 
 # White Fragility
 
-[READ THE TEXT HERE](markdown/white_fragility.md)
+[READ THE TEXT HERE](text/markdown/white_fragility.md)
 
 ## About
 
@@ -41,18 +41,16 @@ Francis](https://drive.google.com/open?id=0B0A_LPl2W2T1YkM3QnpaZkhpdG4xb19GNXVnZ
 
 More instructions on how to print can be found on the [website](http://w-f.is)
 
-## Repo Structure (wip)
+## Repo Structure
 
 Folders:
 
-`pdf` - White Fragility by Robin DiAngelo
+`text` - White Fragility by Robin DiAngelo in PDF, Markdown and plain text form
 
-`studies_of_subway_distribution` - Studies of printed material distributed on the subway
+`documentation` - Various documentation of making and distributing zine
 
-`booklet_test` - Test zine as a booklet straight from the PDF
+`designs` - Designs for the zine
 
-`designs` - Work in progress designs for the zine
-
-`plain_text` - Plain text version of PDF
+`presentation` - Presentation for end of Public Science Winter Residency
 
 _Part of the [Public Science Winter Residency](http://publicscience.co)_
