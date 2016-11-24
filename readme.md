@@ -45,12 +45,12 @@ More instructions on how to print can be found on the [website](http://w-f.is)
 
 Folders:
 
-`text` - White Fragility by Robin DiAngelo in PDF, Markdown and plain text form
+`designs` - Designs for the zine
 
 `documentation` - Various documentation of making and distributing zine
 
-`designs` - Designs for the zine
-
 `presentation` - Presentation for end of Public Science Winter Residency
+
+`text` - White Fragility by Robin DiAngelo in PDF, Markdown and plain text form
 
 _Part of the [Public Science Winter Residency](http://publicscience.co)_
