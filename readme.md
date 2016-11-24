@@ -2,7 +2,7 @@
 
 # White Fragility
 
-[READ THE TEXT HERE](whitefragility/markdown/white_fragility.md)
+[READ THE TEXT HERE](markdown/white_fragility.md)
 
 ## About
 
