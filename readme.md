@@ -17,7 +17,7 @@ useful. With Robin DiAngelo's permission, we decided to spread her words far and
 wide across the land. During the Public Science Winter Residency, we distributed
 the White Fragility zine on the subway, handed them out to our close friends and
 strangers, mailed it across the country, and traded them for donations at a
-Internet-ish flea market. We are excted to see where you take it next. 
+Internet-ish flea market. We are excited to see where you take it next. 
 
 We hope you find it useful too. As the saying goes, talking about race shouldn't
 be so stressful -_-
@@ -53,6 +53,6 @@ Folders:
 
 `designs` - Work in progress designs for the zine
 
-`plain_text` - Plain text verson of PDF
+`plain_text` - Plain text version of PDF
 
 _Part of the [Public Science Winter Residency](http://publicscience.co)_
