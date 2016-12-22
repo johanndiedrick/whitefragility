@@ -1,0 +1,899 @@
+# White Fragility by Robin DiAngelo
+
+White people in North America live in a social environment that protects and
+insulates them from race-based stress. This insulated environment of racial
+protection builds white expectations for racial comfort while at the same time
+lowering the ability to tolerate racial stress, leading to what I refer to as
+White Fragility.White Fragility is a state in which even a minimum amount of
+racial stress becomes intolerable, triggering a range of defensive moves. These
+moves include the outward display of emotions such as anger, fear, and guilt,
+and behaviors such as argumentation, silence, and leaving the stress-inducing
+situation. These behaviors, in turn, function to reinstate white racial
+equilibrium. This paper explicates the dynamics of White Fragility.
+
+
+>I am a white woman. I am standing beside a black woman. We are facing a group
+>of white people who are seated in front of us. We are in their workplace, and
+>have been hired by their employer to lead them in a dialogue about race. The
+>room is filled with tension and charged with hostility. I have just presented a
+>definition of racism that includes the acknowledgment that whites hold social
+>and institutional power over people of color. A white man is pounding his fist
+>on the table. His face is red and he is furious. As he pounds he yells, “White
+>people have been discriminated against for 25 years! A white person can’t get a
+>job anymore!” I look around the room and see 40 employed people, all white.
+>There are no people  of color in this workplace. Something is happening here,
+>and it isn’t based in the racial reality of the workplace. I am feeling
+>unnerved by this man’s disconnection with that reality, and his lack of
+>sensitivity to the impact this is having on my cofacilitator, the only person
+>of color in the room. Why is this white man so angry? Why is he being so
+>careless about the impact of his anger? Why are all the other white people
+>either sitting in silent agreement with him or tuning out? We have, after all,
+>only articulated a definition of racism.
+
+White people in North America live in a social environment that protects and
+insulates them from race-based stress.<sup id="aup1">[^1](#up1)</sup> Fine<sup
+id="a1">[1](#footnote1)</sup> identifies this insulation when she observes “…
+how Whiteness accrues privilege and status; gets itself surrounded by protective
+pillows of resources and/or benefits of the doubt; how Whiteness repels gossip
+and voyeurism and instead demands dignity”. Whites are rarely without these
+“protective pillows,” and when they are, it is usually temporary and by choice.
+This insulated environment of racial privilege builds white expectations for
+racial comfort while at the same time lowering the ability to tolerate racial
+stress.
+
+For many white people, a single required multicultural education course taken in
+college, or required “cultural competency training” in their workplace, is the
+only time they may encounter a direct and sustained challenge to their racial
+understandings. But even in this arena, not all multicultural courses or
+training programs talk directly about racism, much less address white privilege.
+It is far more the norm for these courses and programs to use racially coded
+language such as “urban,” “inner city,” and “disadvantaged” but to rarely use
+“white” or “overadvantaged” or “privileged.” This racially coded language
+reproduces racist images and perspectives while it simultaneously reproduces the
+comfortable illusion that race and its problems are what “they” have, not us.
+Reasons why the facilitators of these courses and trainings may not directly
+name the dynamics and beneficiaries of racism range from the lack of a valid
+analysis of racism by white facilitators, personal and economic survival
+strategies for facilitators of color, and the overall pressure from management
+to keep the content comfortable and palatable for whites. However, if and when
+an educational program does directly address racism and the privileging of
+whites, common white responses include anger, withdrawal, emotional
+incapacitation, guilt, argumentation, and cognitive dissonance (all of which
+reinforce the pressure on facilitators to avoid directly addressing racism).
+So-called progressive whites may not respond with anger, but may still insulate
+themselves via claims that they are beyond the need for engaging with the
+content because they “already had a class on this” or “already know this.” These
+reactions are often seen in anti-racist education endeavors as forms of
+resistance to the challenge of internalized dominance<sup
+id="a2">[2](#footnote2)</sup>. These reactions do indeed function as resistance,
+but it may be useful to also conceptualize them as the result of the reduced
+psychosocial stamina that racial insulation inculcates. I call this lack of
+racial stamina “White Fragility.”
+
+
+<sup id="up1">[^1](#aup1)</sup>: Although white racial insulation is somewhat
+mediated by social class (with poor and working class urban whites being
+generally less racially insulated than suburban or rural whites), the larger
+social environment insulates and protects whites as a group through
+institutions, cultural representations, media, school textbooks, movies,
+advertising, dominant discourses, etc. 
+
+Although mainstream definitions of racism are typically some variation of
+individual “race prejudice”, which anyone of any race can have, Whiteness
+scholars define racism as encompassing economic, political, social, and cultural
+structures, actions, and beliefs that systematize and perpetuate an unequal
+distribution of privileges, resources and power between white people and people
+of color<sup id="a3">[3](#footnote3)</sup>. This unequal distribution benefits
+whites and disadvantages people of color overall and as a group. Racism is not
+fluid in the U.S.; it does not flow back and forth, one day benefiting whites
+and another day (or even era) benefiting people of color. The direction of power
+between whites and people of color is historic, traditional, normalized, and
+deeply embedded in the fabric of U.S. society<sup id="a4">[4](#footnote4)</sup>.
+Whiteness itself refers to the specific dimensions of racism that serve to
+elevate white people over people of color. This definition counters the dominant
+representation of racism in mainstream education as isolated in discrete
+behaviors that some individuals may or may not demonstrate, and goes beyond
+naming specific privileges.<sup id="a5">[5](#footnote5)</sup> Whites are
+theorized as actively shaped, affected, defined, and elevated through their
+racialization and the individual and collective consciousness’ formed within
+it<sup id="a6">[6](#footnote6)</sup>. Recognizing that the terms I am using are
+not “theory neutral ‘descriptors’ but theory laden constructs inseparable from
+systems of injustice”<sup id="a7">[7](#footnote7)</sup>, I use the terms white
+and Whiteness to describe a social process. Frankenberg<sup
+id="a8">[8](#footnote8)</sup> defines Whiteness as multi-dimensional:
+
+> Whiteness is a location of structural advantage, of race privilege. Second, it
+> is a ‘standpoint,’ a place from which White people look at ourselves, at
+> others, and at society. Third, ‘Whiteness’ refers to a set of cultural
+> practices that are usually unmarked and unnamed.
+
+Frankenberg and other theorists<sup id="a9">[9](#footnote9)</sup> use Whiteness
+to signify a set of locations that are historically, socially, politically and
+culturally produced, and which are intrinsically linked to dynamic relations of
+domination. Whiteness is thus conceptualized as a constellation of processes and
+practices rather than as a discrete entity (i.e. skin color alone). Whiteness is
+dynamic, relational, and operating at all times and on myriad levels. These
+processes and practices include basic rights, values, beliefs, perspectives and
+experiences purported to be commonly shared by all but which are actually only
+consistently afforded to white people. Whiteness Studies begin with the premise
+that racism and white privilege exist in both traditional and modern forms, and
+rather than work to prove its existence, work to reveal it. This article will
+explore the dynamics of one aspect of Whiteness and its effects, White
+Fragility.
+
+
+## Triggers
+
+White Fragility is a state in which even a minimum amount of racial stress
+becomes intolerable, triggering a range of defensive moves. These moves include
+the outward display of emotions such as anger, fear, and guilt, and behaviors
+such as argumentation, silence, and leaving the stress-inducing situation. These
+behaviors, in turn, function to reinstate white racial equilibrium. Racial
+stress results from an interruption to what is racially familiar. These
+interruptions can take a variety of forms and come from a range of sources,
+including:
+
+* Suggesting that a white person’s viewpoint comes from a racialized frame of
+  reference (challenge to objectivity);
+* People of color talking directly about their racial perspectives (challenge to
+  white racial codes);
+* People of color choosing not to protect the racial feelings of white people in
+  regards to race (challenge to white racial expectations and need/entitlement
+to racial comfort);
+* People of color not being willing to tell their stories or answer questions
+  about their racial experiences (challenge to colonialist relations);
+* A fellow white not providing agreement with one’s interpretations (challenge
+  to white solidarity);
+* Receiving feedback that one’s behavior had a racist impact (challenge to white
+  liberalism);
+* Suggesting that group membership is significant (challenge to individualism);
+* An acknowledgment that access is unequal between racial groups (challenge to
+  meritocracy);
+* Being presented with a person of color in a position of leadership (challenge
+  to white authority);
+* Being presented with information about other racial groups through, for
+  example, movies in which people of color drive the action but are not in
+stereotypical roles, or multicultural education (challenge to white centrality).
+
+
+In a white dominant environment, each of these challenges becomes exceptional.
+In turn, whites are often at a loss for how to respond in constructive ways.
+Whites have not had to build the cognitive or affective skills or develop the
+stamina that would allow for constructive engagement across racial divides.
+Bourdieu’s concept of habitus<sup id="a10">[10](#footnote10)</sup> may be useful
+here. According to Bourdieu, habitus is a socialized subjectivity; a set of
+dispositions which generate practices and perceptions. As such, habitus only
+exists in, through and because of the practices of actors and their interaction
+with each other and with the rest of their environment. Based on the previous
+conditions and experiences that produce it, habitus produces and reproduces
+thoughts, perceptions, expressions and actions. Strategies of response to
+“disequilibrium” in the habitus are not based on conscious intentionality but
+rather result from unconscious dispositions towards practice, and depend on the
+power position the agent occupies in the social structure. White Fragility may
+be conceptualized as a product of the habitus, a response or “condition”
+produced and reproduced by the continual social and material advantages of the
+white structural position.
+
+
+Omi & Winant posit the U.S. racial order as an “unstable equilibrium,” kept
+equilibrated by the State, but still unstable due to continual conflicts of
+interests and challenges to the racial order<sup
+id="a11">[11](#footnote11)</sup>. Using Omi & Winant’s concept of unstable
+racial equilibrium, white privilege can be thought of as unstable racial
+equilibrium at the level of habitus. When any of the above triggers (challenges
+in the habitus) occur, the resulting disequilibrium becomes intolerable. Because
+White Fragility finds its support in and is a function of white privilege,
+fragility and privilege result in responses that function to restore equilibrium
+and return the resources “lost” via the challenge - resistance towards the
+trigger, shutting down and/or tuning out, indulgence in emotional incapacitation
+such as guilt or “hurt feelings”, exiting, or a combination of these responses.
+
+## Factors that inculcate White Fragility
+
+### Segregation
+
+The first factor leading to White Fragility is the segregated lives which most
+white people live<sup id="a12">[12](#footnote12)</sup>. Even if whites live in
+physical proximity to people of color (and this would be exceptional outside of
+an urban or temporarily mixed class neighborhood), segregation occurs on
+multiple levels, including representational and informational. Because whites
+live primarily segregated lives in a white-dominated society, they receive
+little or no authentic information about racism and are thus unprepared to think
+about it critically or with complexity. Growing up in segregated environments
+(schools, workplaces, neighborhoods, media images and historical perspectives),
+white interests and perspectives are almost always central. An inability to see
+or consider significance in the perspectives of people of color results<sup
+id="a13">[13](#footnote13)</sup>. 
+  Further, white people are taught not to feel any loss over the absence of
+people of color in their lives and in fact, this absence is what defines their
+schools and neighborhoods as “good;” whites come to understand that a “good
+school” or “good neighborhood” is coded language for “white”<sup
+id="a14">[14](#footnote14)</sup>. The quality of white space being in large part
+measured via the absence of people of color (and Blacks in particular) is a
+profound message indeed, one that is deeply internalized and reinforced daily
+through normalized discourses about good schools and neighborhoods. This dynamic
+of gain rather than loss via racial segregation may be the most profound aspect
+of white racial socialization of all. Yet, while discourses about what makes a
+space good are tacitly understood as racially coded, this coding is explicitly
+denied by whites.
+
+
+### Universalism & Individualism
+
+Whites are taught to see their perspectives as objective and representative of
+reality<sup id="a15">[15](#footnote15)</sup>. The belief in objectivity, coupled
+with positioning white people as outside of culture (and thus the norm for
+humanity), allows whites to view themselves as universal humans who can
+represent all of human experience. This is evidenced through an unracialized
+identity or location, which functions as a kind of blindness; an inability to
+think about Whiteness as an identity or as a “state” of being that would or
+could have an impact on one’s life. In this position, Whiteness is not
+recognized or named by white people, and a universal reference point is assumed.
+White people are just people. Within this construction, whites can represent
+humanity, while people of color, who are never just people but always most
+particularly black people, Asian people, etc., can only represent their own
+racialized experiences<sup id="a16">[16](#footnote16)</sup>.
+
+The discourse of universalism functions similarly to the discourse of
+individualism but instead of declaring that we all need to see each other as
+individuals (everyone is different), the person declares that we all need to see
+each other as human beings (everyone is the same). Of course we are all humans,
+and I do not critique universalism in general, but when applied to racism,
+universalism functions to deny the significance of race and the advantages of
+being white. Further, universalism assumes that whites and people of color have
+the same realities, the same experiences in the same contexts (i.e. I feel
+comfortable in this majority white classroom, so you must too), the same
+responses from others, and assumes that the same doors are open to all.
+Acknowledging racism as a system of privilege conferred on whites challenges
+claims to universalism.
+
+At the same time that whites are taught to see their interests and perspectives
+as universal, they are also taught to value the individual and to see themselves
+as individuals rather than as part of a racially socialized group. Individualism
+erases history and hides the ways in which wealth has been distributed and
+accumulated over generations to benefit whites today. It allows whites to view
+themselves as unique and original, outside of socialization and unaffected by
+the relentless racial messages in the culture. Individualism also allows whites
+to distance themselves from the actions of their racial group and demand to be
+granted the benefit of the doubt, as individuals, in all cases. A corollary to
+this unracialized identity is the ability to recognize Whiteness as something
+that is significant and that operates in society, but to not see how it relates
+to one’s own life. In this form, a white person recognizes Whiteness as real,
+but as the individual problem of other “bad” white people<sup
+id="a17">[17](#footnote17)</sup>.
+
+Given the ideology of individualism, whites often respond defensively when
+linked to other whites as a group or “accused” of collectively benefiting from
+racism, because as individuals, each white person is “different” from any other
+white person and expects to be seen as such. This narcissism is not necessarily
+the result of a consciously held belief that whites are superior to others
+(although that may play a role), but a result of the white racial insulation
+ubiquitous in dominant culture<sup id="a18">[18](#footnote18)</sup>; a general
+white inability to see non-white perspectives as significant, except in sporadic
+and impotent reflexes, which have little or no long-term momentum or political
+usefulness<sup id="a19">[19](#footnote19)</sup>.
+
+
+Whites invoke these seemingly contradictory discourses—we are either all unique
+or we are all the same—interchangeably. Both discourses work to deny white
+privilege and the significance of race. Further, on the cultural level, being an
+individual or being a human outside of a racial group is a privilege only
+afforded to white people. In other words, people of color are almost always seen
+as “having a race” and described in racial terms (“the black man”) but whites
+rarely are (“the man”), allowing whites to see themselves as objective and
+non-racialized. In turn, being seen (and seeing ourselves) as individuals
+outside of race frees whites from the psychic burden of race in a wholly
+racialized society. Race and racism become their problems, not ours. Challenging
+these frameworks becomes a kind of unwelcome shock to the system.
+
+The disavowal of race as an organizing factor, both of individual white
+consciousness and the institutions of society at large, is necessary to support
+current structures of capitalism and domination, for without it, the correlation
+between the distribution of social resources and unearned white privilege would
+be evident<sup id="a20">[20](#footnote20)</sup>. The existence of structural
+inequality undermines the claim that privilege is simply a reflection of hard
+work and virtue. Therefore, inequality must be hidden or justified as resulting
+from lack of effort<sup id="a21">[21](#footnote21)</sup>. Individualism
+accomplishes both of these tasks. At the same time, the individual presented as
+outside these relations cannot exist without its disavowed other. Thus, an
+essential dichotomy is formed between specifically raced others and the
+unracialized individual. Whites have deep investments in race, for the abstract
+depends on the particular<sup id="a22">[22](#footnote22)</sup>; they need raced
+others as the backdrop against which they may rise<sup
+id="a23">[23](#footnote23)</sup>. Exposing this dichotomy destabilizes white
+identity.
+
+### Entitlement to racial comfort
+
+In the dominant position, whites are almost always racially comfortable and thus
+have developed unchallenged expectations to remain so <sup
+id="a24">[24](#footnote24)</sup>. Whites have not had to build tolerance for
+racial discomfort and thus when racial discomfort arises, whites typically
+respond as if something is “wrong,” and blame the person or event that triggered
+the discomfort (usually a person of color). This blame results in a
+socially-sanctioned array of counter-moves against the perceived source of the
+discomfort, including: penalization; retaliation; isolation; ostracization; and
+refusal to continue engagement. White insistence on racial comfort ensures that
+racism will not be faced. This insistence also functions to punish those who
+break white codes of comfort. Whites often confuse comfort with safety and state
+that we don’t feel safe when what we really mean is that we don’t feel
+comfortable. This trivializes our history of brutality towards people of color
+and perverts the reality of that history. Because we don’t think complexly about
+racism, we don’t ask ourselves what safety means from a position of societal
+dominance, or the impact on people of color, given our history, for whites to
+complain about our safety when we are merely _talking_ about racism.
+
+### Racial Arrogance
+
+Ideological racism includes strongly positive images of the white self as well
+as strongly negative images of racial “others”<sup
+id="a25">[25](#footnote25)</sup>. This self-image engenders a self-perpetuating
+sense of entitlement because many whites believe their financial and
+professional successes are the result of their own efforts while ignoring the
+fact of white privilege. Because most whites have not been trained to think
+complexly about racism in schools<sup id="a26">[26](#footnote26)</sup> or
+mainstream discourse, and because it benefits white dominance not to do so, we
+have a very limited understanding of racism. Yet dominance leads to racial
+arrogance, and in this racial arrogance, whites have no compunction about
+debating the knowledge of people who have thought complexly about race. Whites
+generally feel free to dismiss these informed perspectives rather than have the
+humility to acknowledge that they are unfamiliar, reflect on them further, or
+seek more information. This intelligence and expertise are often trivialized and
+countered with simplistic platitudes (i.e. “People just need to…”).
+
+Because of white social, economic and political power within a white dominant
+culture, whites are positioned to legitimize people of color’s assertions of
+racism. Yet whites are the least likely to see, understand, or be invested in
+validating those assertions and being honest about their consequences, which
+leads whites to claim that they disagree with perspectives that challenge their
+worldview, when in fact, they don’t understand the perspective.Thus, they
+confuse not understanding with not agreeing. This racial arrogance, coupled with
+the need for racial comfort, also has whites insisting that people of color
+explain white racism in the “right” way. The right way is generally politely and
+rationally, without any show of emotional upset. When explained in a way that
+white people can see and understand, racism’s validity may be granted
+(references to dynamics of racism that white people do not understand are
+usually rejected out of hand). However, whites are usually more receptive to
+validating white racism if that racism is constructed as residing in individual
+white people other than themselves.
+
+
+### Racial Belonging
+
+White people enjoy a deeply internalized, largely unconscious sense of racial
+belonging in U.S. society<sup id="a27">[27](#footnote27)</sup>. This racial
+belonging is instilled via the whiteness embedded in the culture at large.
+Everywhere we look, we see our own racial image reflected back to us – in our
+heroes and heroines, in standards of beauty, in our role-models and teachers, in
+our textbooks and historical memory, in the media, in religious iconography
+including the image of god himself, etc. In virtually any situation or image
+deemed valuable in dominant society, whites belong. Indeed, it is rare for most
+whites to experience a sense of not belonging, and such experiences are usually
+very temporary, easily avoidable situations. Racial belonging becomes deeply
+internalized and taken for granted. In dominant society, interruption of racial
+belonging is rare and thus destabilizing and frightening to whites.
+
+Whites consistently choose and enjoy racial segregation. Living, working, and
+playing in racial segregation is unremarkable as long as it is not named or made
+explicitly intentional. For example, in many anti-racist endeavors, a common
+exercise is to separate into caucus groups by race in order to discuss issues
+specific to your racial group, and without the pressure or stress of other
+groups’ presence. Generally, people of color appreciate this opportunity for
+racial fellowship, but white people typically become very uncomfortable,
+agitated and upset - even though this temporary separation is in the service of
+addressing racism. Responses include a disorienting sense of themselves as not
+just people, but most particularly white people; a curious sense of loss about
+this contrived and temporary separation which they don’t feel about the real and
+on-going segregation in their daily lives; and anxiety about not knowing what is
+going on in the groups of color. The irony, again, is that most whites live in
+racial segregation every day, and in fact, are the group most likely to
+intentionally choose that segregation (albeit obscured in racially coded
+language such as seeking “good schools” and “good neighborhoods”). This
+segregation is unremarkable until it is named as deliberate – i.e. “We are now
+going to separate by race for a short exercise.”I posit that it is the
+intentionality that is so disquieting – as long as we don’t mean to separate, as
+long as it “just happens” that we live segregated lives, we can maintain a
+(fragile) identity of racial innocence.
+
+### Psychic freedom
+
+Because race is constructed as residing in people of color, whites don’t bear
+the social burden of race. We move easily through our society without a sense of
+ourselves as racialized subjects<sup id="a28">[28](#footnote28)</sup>. We see
+race as operating when people of color are present, but all-white spaces as
+“pure” spaces – untainted by race vis á vis the absence of the carriers of race
+(and thereby the racial polluters) – people of color. This perspective is
+perfectly captured in a familiar white statement, “I was lucky. I grew up in an
+all-white neighborhood so I didn’t learn anything about racism.” In this
+discursive move, whiteness gains its meaning through its purported lack of
+encounter with non-whiteness<sup id="a29">[29](#footnote29)</sup>. Because
+racial segregation is deemed socially valuable while simultaneously unracial and
+unremarkable, we rarely, if ever, have to think about race and racism, and
+receive no penalty for not thinking about it. In fact, whites are more likely to
+be penalized (primarily by other whites) for bringing race up in a social
+justice context than for ignoring it (however, it is acceptable to bring race up
+indirectly and in ways that reinforce racist attitudes, i.e. warning other
+whites to stay away from certain neighborhoods, etc.). This frees whites from
+carrying the psychic burden of race. Race is for people of color to think about
+– it is what happens to “them” – they can bring it up if it is an issue for them
+(although if they do, we can dismiss it as a personal problem, the “race card”,
+or the reason for their problems). This allows whites to devote much more
+psychological energy to other issues, and prevents us from developing the
+stamina to sustain attention on an issue as charged and uncomfortable as race.
+
+
+### Constant messages that we are more valuable – through representation in
+everything
+
+Living in a white dominant context, we receive constant messages that we are
+better and more important than people of color. These messages operate on
+multiple levels and are conveyed in a range of ways. For example: our centrality
+in history textbooks, historical representations and perspectives; our
+centrality in media and advertising (for example, a recent Vogue magazine cover
+boldly stated, “The World’s Next Top Models” and every woman on the front cover
+was white); our teachers, role-models, heroes and heroines; everyday discourse
+on “good” neighborhoods and schools and who is in them; popular TV shows
+centered around friendship circles that are all white; religious iconography
+that depicts god, Adam and Eve, and other key figures as white, commentary on
+new stories about how shocking any crime is that occurs in white suburbs; and,
+the lack of a sense of loss about the absence of people of color in most white
+people’s lives. While one may explicitly reject the notion that one is
+inherently better than another, one cannot avoid internalizing the message of
+white superiority, as it is ubiquitous in mainstream culture.<sup
+id="a30">[30](#footnote30)</sup>
+
+
+## What does White Fragility look like?
+
+A large body of research about children and race demonstrates that children
+start to construct ideas about race very early; a sense of white superiority and
+knowledge of racial power codes appears to develop as early as pre-school<sup
+id="a31">[31](#footnote31)</sup>. Marty<sup id="a32">[32](#footnote32)</sup>
+states,
+
+
+> As in other Western nations, white children born in the United States inherit
+> the moral predicament of living in a white supremacist society. Raised to
+> experience their racially based advantages as fair and normal, white children
+> receive little if any instruction regarding the predicament they face, let
+> alone any guidance in how to resolve it. Therefore, they experience or learn
+> about racial tension without understanding Euro-Americans’ historical
+> responsibility for it and knowing virtually nothing about their contemporary
+> roles in perpetuating it<sup id="a33">[33](#footnote33)</sup>.
+
+At the same time that it is ubiquitous, white superiority also remains unnamed
+and explicitly denied by most whites. If white children become adults who
+explicitly oppose racism, as do many, they often organize their identity around
+a denial of the racially based privileges they hold that reinforce racist
+disadvantage for others. What is particularly problematic about this
+contradiction is that white moral objection to racism increases white resistance
+to acknowledging complicity with it. In a white supremacist context, white
+identity in large part rests upon a foundation of (superficial) racial
+toleration and acceptance. Whites who position themselves as liberal often opt
+to protect what they perceive as their moral reputations, rather than recognize
+or change their participation in systems of inequity and domination. In so
+responding, whites invoke the power to choose when, how, and how much to address
+or challenge racism. Thus, pointing out white advantage will often trigger
+patterns of confusion, defensiveness and righteous indignation. When confronted
+with a challenge to white racial codes, many white liberals use the speech of
+self-defense<sup id="a34">[34](#footnote34)</sup>. This discourse enables
+defenders to protect their moral character against what they perceive as
+accusation and attack while deflecting any recognition of culpability or need of
+accountability. Focusing on restoring their moral standing through these
+tactics, whites are able to avoid the question of white privilege<sup
+id="a35">[35](#footnote35)</sup>.
+
+Those who lead whites in discussions of race may find the discourse of
+self-defense familiar. Via this discourse, whites position themselves as
+victimized, slammed, blamed, attacked, and being used as “punching bag[s]”<sup
+id="a36">[36](#footnote36)</sup>. Whites who describe interactions in this way
+are responding to the articulation of counter narratives; nothing physically out
+of the ordinary has ever occurred in any inter-racial discussion that I am aware
+of. These self-defense claims work on multiple levels to: position the speakers
+as morally superior while obscuring the true power of their social locations;
+blame others with less social power for their discomfort; falsely position that
+discomfort as dangerous; and reinscribe racist imagery. This discourse of
+victimization also enables whites to avoid responsibility for the racial power
+and privilege they wield. By positioning themselves as victims of anti-racist
+efforts, they cannot be the beneficiaries of white privilege. Claiming that they
+have been treated unfairly via a challenge to their position or an expectation
+that they listen to the perspectives and experiences of people of color, they
+are able to demand that more social resources (such as time and attention) be
+channeled in their direction to help them cope with this mistreatment.
+
+A cogent example of White Fragility occurred recently during a workplace
+anti-racism training I co-facilitated with an inter-racial team. One of the
+white participants left the session and went back to her desk, upset at
+receiving (what appeared to the training team as) sensitive and diplomatic
+feedback on how some of her statements had impacted several people of color in
+the room. At break, several other white participants approached us (the
+trainers) and reported that they had talked to the woman at her desk, and she
+was very upset that her statements had been challenged. They wanted to alert us
+to the fact that she literally “might be having a heart-attack.” Upon
+questioning from us, they clarified that they meant this literally. These
+co-workers were sincere in their fear that the young woman might actually
+physically die as a result of the feedback. Of course, when news of the woman’s
+potentially fatal condition reached the rest of the participant group, all
+attention was immediately focused back onto her and away from the impact she had
+had on the people of color. As Vodde<sup id="a37">[37](#footnote37)</sup>
+states, “If privilege is defined as a legitimization of one’s entitlement to
+resources, it can also be defined as permission to escape or avoid any
+challenges to this entitlement”<sup id="a38">[38](#footnote38)</sup>.
+
+The language of violence that many whites use to describe anti-racist endeavors
+is not without significance, as it is another example of the way that White
+Fragility distorts and perverts reality. By employing terms that connote
+physical abuse, whites tap into the classic discourse of people of color
+(particularly African Americans) as dangerous and violent. This discourse
+perverts the actual direction of danger that exists between whites and others.
+The history of brutal, extensive, institutionalized and ongoing violence
+perpetrated by whites against people of color—slavery, genocide, lynching,
+whipping, forced sterilization and medical experimentation to mention a
+few—becomes profoundly trivialized when whites claim they don’t feel safe or are
+under attack when in the rare situation of merely talking about race with people
+of color. The use of this discourse illustrates how fragile and ill-equipped
+most white people are to confront racial tensions, and their subsequent
+projection of this tension onto people of color<sup
+id="a39">[39](#footnote39)</sup>. Goldberg<sup id="a40">[40](#footnote40)</sup>
+argues that the questions surrounding racial discourse should not focus so much
+on how true stereotypes are, but how the truth claims they offer are a part of a
+larger worldview that authorizes and normalizes forms of domination and control.
+Further, it is relevant to ask: Under what conditions are those truth claims
+clung to most tenaciously?
+
+Bonilla-Silva<sup id="a41">[41](#footnote41)</sup> documents a manifestation of
+White Fragility in his study of color-blind white racism. He states, “Because
+the new racial climate in America forbids the open expression of racially based
+feelings, views, and positions, when whites discuss issues that make them
+uncomfortable, they become almost incomprehensible – I, I, I, I don’t mean, you
+know, but…- ”<sup id="a42">[42](#footnote42)</sup>. Probing forbidden racial
+issues results in verbal incoherence - digressions, long pauses, repetition, and
+self-corrections. He suggests that this incoherent talk is a function of talking
+about race in a world that insists race does not matter. This incoherence is one
+demonstration that many white people are unprepared to engage, even on a
+preliminary level, in an exploration of their racial perspectives that could
+lead to a shift in their understanding of racism. This lack of preparedness
+results in the maintenance of white power because the ability to determine which
+narratives are authorized and which are suppressed is the foundation of cultural
+domination<sup id="a43">[43](#footnote43)</sup>. Further, this lack of
+preparedness has further implications, for if whites cannot engage with an
+exploration of alternate racial perspectives, they can only reinscribe white
+perspectives as universal.
+
+
+However, an assertion that whites do not engage with dynamics of racial
+discourse is somewhat misleading. White people do notice the racial locations of
+racial others and discuss this freely among themselves, albeit often in coded
+ways. Their refusal to directly acknowledge this race talk results in a kind of
+split consciousness that leads to the incoherence Bonilla-Silva documents
+above<sup id="a44">[44](#footnote44)</sup>. This denial also guarantees that the
+racial misinformation that circulates in the culture and frames their
+perspectives will be left unexamined. The continual retreat from the discomfort
+of authentic racial engagement in a culture infused with racial disparity limits
+the ability to form authentic connections across racial lines, and results in a
+perpetual cycle that works to hold racism in place.
+
+
+## Conclusion
+
+White people often believe that multicultural / anti-racist education is only
+necessary for those who interact with “minorities” or in “diverse” environments.
+However, the dynamics discussed here suggest that it is critical that all white
+people build the stamina to sustain conscious and explicit engagement with race.
+When whites posit race as non-operative because there are few, if any, people of
+color in their immediate environments, Whiteness is reinscribed ever more
+deeply<sup id="a45">[45](#footnote45)</sup>. When whites only notice “raced
+others,” we reinscribe Whiteness by continuing to posit Whiteness as universal
+and non Whiteness as other. Further, if we can’t listen to or comprehend the
+perspectives of people of color, we cannot bridge cross-racial divides. A
+continual retreat from the discomfort of authentic racial engagement results in
+a perpetual cycle that works to hold racism in place.
+
+While anti-racist efforts ultimately seek to transform institutionalized racism,
+anti-racist education may be most effective by starting at the micro level. The
+goal is to generate the development of perspectives and skills that enable all
+people, regardless of racial location, to be active initiators of change. Since
+all individuals who live within a racist system are enmeshed in its relations,
+this means that all are responsible for either perpetuating or transforming that
+system. However, although all individuals play a role in keeping the system
+active, the responsibility for change is not equally shared. White racism is
+ultimately a white problem and the burden for interrupting it belongs to white
+people<sup id="a46">[46](#footnote46)</sup>. Conversations about Whiteness might
+best happen within the context of a larger conversation about racism. It is
+useful to start at the micro level of analysis, and move to the macro, from the
+individual out to the interpersonal, societal and institutional. Starting with
+the individual and moving outward to the ultimate framework for racism –
+Whiteness – allows for the pacing that is necessary for many white people for
+approaching the challenging study of race. In this way, a discourse on Whiteness
+becomes part of a process rather than an event<sup
+id="a47">[47](#footnote47)</sup>.
+
+Many white people have never been given direct or complex information about
+racism before, and often cannot explicitly see, feel, or understand it<sup
+id="a48">[48](#footnote48)</sup>. People of color are generally much more aware
+of racism on a personal level, but due to the wider society’s silence and denial
+of it, often do not have a macro-level framework from which to analyze their
+experiences<sup id="a49">[49](#footnote49)</sup>. Further, dominant society
+“assigns” different roles to different groups of color<sup
+id="a50">[50](#footnote50)</sup>, and a critical consciousness about racism
+varies not only between individuals within groups, but also between groups. For
+example, many African Americans relate having been “prepared” by parents to live
+in a racist society, while many Asian heritage people say that racism was never
+directly discussed in their homes<sup id="a51">[51](#footnote51)</sup>. A
+macro-level analysis may offer a framework to understand different
+interpretations and performances across and between racial groups. In this way,
+all parties benefit and efforts are not solely focused on whites (which works to
+re-center Whiteness).
+
+Talking directly about white power and privilege, in addition to providing much
+needed information and shared definitions, is also in itself a powerful
+interruption of common (and oppressive) discursive patterns around race. At the
+same time, white people often need to reflect upon racial information and be
+allowed to make connections between the information and their own lives.
+Educators can encourage and support white participants in making their
+engagement a point of analysis. White Fragility doesn’t always manifest in overt
+ways; silence and withdrawal are also functions of fragility. Who speaks, who
+doesn’t speak, when, for how long, and with what emotional valence are all keys
+to understanding the relational patterns that hold oppression in place<sup
+id="a52">[52](#footnote52)</sup>. Viewing white anger, defensiveness, silence,
+and withdrawal in response to issues of race through the framework of White
+Fragility may help frame the problem as an issue of stamina-building, and
+thereby guide our interventions accordingly.
+
+## References
+
+American Association of Colleges for Teacher Education (AACTE). (1994). Teacher
+education pipeline: Schools, colleges, and departments of education. Washington,
+DC:
+
+Casey J. Dawkins. (2004). Recent Evidence on the Continuing Causes of
+Black-White Residential Segregation. Journal of Urban Affairs, 26(3), 379-400.
+
+Frakenberg, R. (2001). Mirage of an unmarked Whiteness. In B. Rasmussen, E.
+Klinerberg, I.  Nexica, M. Wray (Ed.), The making and unmaking of Whiteness (pp.
+72-96). Durham, NC: Duke University Press.
+
+Macedo, D., & Bartolome, L. (1999). Dancing with bigotry: Beyond the politics of
+tolerance. New York: St. Martin’s Press.
+
+Snyder, T. (1998). Digest of Education Statistics. Washington, DC:  National
+Center for Education Statistics, Department of Education.
+Van Dijk, T.A. (1993). Analyzing racism through discourse analysis: Some
+methodological reflections. In J. H. Stanfield, & R. M. Dennis (Eds.), Race and
+ethnicity in research method (pp.92-134). London: Sage.
+
+Wells, L. (1985). A group-as-a-whole perspective and its theoretical roots. In
+A. Coleman, & M. Geller (Eds.), Group Relations Reader 2 (22-34). Washington,
+D.C.: A.K. Rice Institute.
+
+Yamamoto, G. (2001). Something about this subject makes it hard to name. In M.
+Andersen, & P. H. Collins (Eds.), Race, class and gender: An Anthology (pp.
+89-93). Belmont, CA: Wadsworth.
+
+Originally published in the International Journal of Critical Pedagogy, Vol 3
+(3) (2011) pp 54-70 
+
+<a name="footnote1">[1]</a>: Fine, M. (1997). Witnessing Whiteness. In M. Fine,
+L. Weis, C. Powell, & L. Wong, (Eds.), Off White: Readings on race, power, and
+society (pp. 57-65). New York: Routledge.
+
+<a name="footnote2">[2]</a>  Whitehead, K.A. & Wittig, M.A. (2005). Discursive
+Management of Resistance to a Multicultural Education Programme. Qualitative
+Research in Psychology,1(3), pp. 267284; Horton, J. & Scott, D. (2004). White
+students’ voices in multicultural teacher education preparation. Multicultural
+Education, 11(4) Retreived from http://findarticles.com/p/
+articles/mi_qa3935/is_200407/ai_n9414143/; McGowan, J. (2000). Multicultural
+teaching: African-American faculty classroom teaching experiences in
+predominantly White colleges and universities. Multicultural Education, 8(2),
+19-22; O’Donnell, J. (1998). Engaging students’ recognition of racial identity.
+In Chavez, R.C. & O’Donnell, J. (Eds.), Speaking the unpleasant: the politics of
+(non) engagement in the multicultural education terrain (pp. 56-68). Albany, NY:
+State University of New York Press.
+
+<a name="footnote3">[3]</a> Hilliard, A. (1992). Racism: Its origins and how it
+works. Paper presented at the meeting of the Mid-West Association for the
+Education of Young Children, Madison, WI. 
+
+<a name="footnote4">[4]</a> Mills, C. (1999). The racial contract. NY: Cornell
+University Press; Feagin, J. R. (2006). Systematic Racism: A theory of
+oppression. New York: Routledge.
+
+<a name="footnote5">[5]</a> McIntosh, P. (1988). White privilege and male
+privilege: A personal account of coming to see correspondence through work in
+women’s studies. In M. Anderson, & P. Hill Collins (Eds.), Race, class, and
+gender: An anthology (pp. 94-105). Belmont, CA: Wadsworth.
+
+<a name="footnote6">[6]</a> Frankenberg, R. (1997). Introduction: Local
+Whitenesses, localizing Whiteness. In R. Morrison, T. (1992). Playing in the
+dark. New York: Random House.; Tatum, B. (1997). “Why are all the black kids
+sitting together in the cafeteria?”: And other conversations about race. New
+York: Basic Books.
+
+<a name="footnote7">[7]</a> Allen, D. (1996). Knowledge, politics, culture, and
+gender: A discourse perspective. Canadian Journal of Nursing Research, 28(1),
+95-102.
+
+<a name="footnote8">[8]</a> Frankenberg (Ed.), Displacing Whiteness: Essays in
+social and cultural criticism (pp. 1-33.). Durham, NC: Duke University Press;
+Frankenberg, R. (1993). The social construction of Whiteness: White women, race
+matters. Minneapolis: University of Minnesota Press.
+
+<a name="footnote9">[9]</a> Fine, M. (1997). Introduction. In M. Fine, L. Weis,
+C. Powell & L. Wong (Eds.), Off White: Readings on race, power and society (p.
+vii-xii). New York: Routledge; Dyer, R. (1997). White. New York: Routledge.;
+Sleeter, C. (1996). White silence, White solidarity. In N. Ignatiev, & J. Garvey
+(Eds.), Race Traitors. New York: Routledge; How White teachers construct race.
+In C. McCarthy & W. Crichlow (Eds.), Race identity and representation in
+education (pp 157-171). New York: Routledge; Van Dijk, T.A. (1993). Principles
+of critical discourse analysis. Discourse and Society, 4(2), 249-283. 
+
+<a name="footnote10">[10]</a> Bourdieu, P. (1993). The Field of Cultural
+Production. New York: Columbia University Press.
+
+<a name="footnote11">[11]</a> Omi, M. & Winant, H. (1986). Racial Formtion in
+the United States. New York: Routledge 78-9
+
+<a name="footnote12">[12]</a> Frankenberg, E., Lee, C. & Orfield, G. (2003). A
+multiracial society with segregated schools: Are we losing the dream? The Civil
+Rights Project. Retrieved from
+http://www.civilrightsproject.ucla.edu/research/reseg03/reseg03_full.php.
+
+<a name="footnote13">[13]</a> Collins, 2000 [citation missing publication title
++ page number]
+
+<a name="footnote14">[14]</a> Johnson, H.B. & Shapiro, T.M. (2003). Good
+Neighborhoods, Good Schools: Race and the “Good Choices” of White Families. In
+Doane, A.W & Bonilla-Silva, E. (Eds). White Out: The Continuing Significance of
+Racism (pp. 173-187). New York: Routledge.
+
+<a name="footnote15">[15]</a> McIntosh, P. (1988). White privilege and male
+privilege: A personal account of coming to see correspondence through work in
+women’s studies. In M. Anderson, & P. Hill Collins (Eds.), Race, class, and
+gender: An anthology (pp. 94-105). Belmont, CA: Wadsworth.
+
+<a name="footnote16">[16]</a> Dyer, 1992 [citation missing publication title +
+page number]
+
+<a name="footnote17">[17]</a> DiAngelo, Robin J. (2010a). Why Can’t We All Just
+Be Individuals?: Countering the Discourse of Individualism in Anti-racist
+Education. InterActions: UCLA Journal of Education and Information Studies, 6(1)
+. Retrieved from http://escholarship.org/uc/item/5fm4h8wm
+
+<a name="footnote18">[18]</a> Dawkins, 2004; Frankenberg, E., Lee, C. & Orfield,
+G. (2003). A multiracial society with segregated schools: Are we losing the
+dream? The Civil Rights Project. Retrieved from
+http://www.civilrightsproject.ucla.edu/research/reseg03/reseg03_full.php.
+
+<a name="footnote19">[19]</a> Rich, 1979 [citation missing publication title +
+page number]5
+
+<a name="footnote20">[20]</a> Flax, J. (1998). American dream in Black and
+White: The Clarence Thomas hearings. New York: Cornell University Press.
+
+<a name="footnote21">[21]</a> Mills, 1997; Ryan, 2001 [citation missing
+publication title + page number]
+
+<a name="footnote22">[22]</a> Flax, J. (1998). American dream in Black and
+White: The Clarence Thomas hearings. New York: Cornell University Press.
+
+<a name="footnote23">[23]</a> Morrison, T. (1992). Playing in the dark. New
+York: Random House.
+
+<a name="footnote24">[24]</a> DiAngelo, R. (2006b). My race didn’t trump my
+class: Using oppression to face privilege. Multicultural Perspectives, 8(1),
+51-56.
+
+<a name="footnote25">[25]</a> Feagin, J. R. (2006). Systematic Racism: A theory
+of oppression. New York: Routledge. p. 33
+
+<a name="footnote26">[26]</a> Derman-Sparks, L., Ramsey, P. & Olsen Edwards, J.
+(2006). What If All the Kids Are White?: Anti-bias Multicultural Education With
+Young Children And Families. New York: Teachers College Press.; Sleeter, C.
+(1996). White silence, White solidarity. In N. Ignatiev, & J. Garvey (Eds.),
+Race Traitors. New York: Routledge.. How White teachers construct race. In C.
+McCarthy & W. Crichlow (Eds.), Race identity and representation in education (pp
+157-171). New York: Routledge.)
+
+<a name="footnote27">[27]</a> DiAngelo, R. (2006b). My race didn’t trump my
+class: Using oppression to face privilege. Multicultural Perspectives, 8(1),
+51-56.; McIntosh, P. (1988). White privilege and male privilege: A personal
+account of coming to see correspondence through work in women’s studies. In M.
+Anderson, & P. Hill Collins (Eds.), Race, class, and gender: An anthology (pp.
+94-105). Belmont, CA: Wadsworth.
+
+<a name="footnote28">[28]</a> Dyer, R. (1997). White. New York: Routledge.
+
+<a name="footnote29">[29]</a> Nakayama, T., & Martin, J. (1999). Whiteness: The
+communication of social identity. Thousand Oakes, CA: Sage.
+
+<a name="footnote30">[30]</a> Tatum, B. (1997). “Why are all the black kids
+sitting together in the cafeteria?”: And other conversations about race. New
+York: Basic Books.; Doane, A.W. (1997). White identity and race relations in the
+1990s. In Carter, G.L. (Ed), Perspectives on Current Social Problems, edited by
+(pp. 151-159). Boston: Allyn and Bacon.
+
+<a name="footnote31">[31]</a> Clark, K.B. (1963). Prejudice and your child.
+Boston: Beacon Press; Derman-Sparks, L., Ramsey, P. & Olsen Edwards, J. (2006).
+What If All the Kids Are White?: Anti-bias Multicultural Education With Young
+Children And Families. New York: Teachers College Press.
+
+<a name="footnote32">[32]</a> Marty (1999) [citation missing publication title +
+page number]
+
+<a name="footnote33">[33]</a> Marty p. 51 [citation missing publication title]
+
+<a name="footnote34">[34]</a> Van Dijk, 1992 [citation missing publication title
++ page number]
+
+<a name="footnote35">[35]</a> Marty, 1999; Van Dijk, 1992 [citation missing
+publication title + page number]
+
+<a name="footnote36">[36]</a> DiAngelo, R. (2006c). “I’m leaving!”: White
+fragility in racial dialogue. In B. McMahon & D. Armstrong (Eds.), Inclusion in
+Urban Educational Environments: Addressing Issues of Diversity, Equity, and
+Social Justice (pp. 213-240). Centre for Leadership and Diversity. Ontario
+Institute for Studies in Education of the University of Toronto.
+
+<a name="footnote37">[37]</a> Vodde, R. (2001). De-centering privilege in social
+work education: Whose job is it anyway? Journal of Race, Gender and Class, 7(4),
+p 139-160
+
+<a name="footnote38">[38]</a> Vodde p. 3
+
+<a name="footnote39">[39]</a> Morrison, T. (1992). Playing in the dark. New
+York: Random House.
+
+<a name="footnote40">[40]</a> Goldberg, D.T. (1993). Racist culture. Oxford,
+England: Blackwell.
+
+<a name="footnote41">[41]</a> Bonilla-Silva, E. (2006). Racism without racists:
+Color-blind racism and the persistence of racial inequality in the United States
+(2nd ed). New York: Rowman & Littlefield.
+
+<a name="footnote42">[42]</a> Bonilla-Silva p. 68
+
+<a name="footnote43">[43]</a> Banks, 1996; Said, 1994; Spivak, 1990 [citation
+missing publication title + page number]
+
+<a name="footnote44">[44]</a> Feagin, J. R. (2006). Systematic Racism: A theory
+of oppression. New York: Routledge; Flax, J. (1998). American dream in Black and
+White: The Clarence Thomas hearings. New York: Cornell University Press; hooks,
+b. (1992). Black looks: Race and representation. Boston, MA: South End Press;
+Morrison, T. (1992). Playing in the dark. New York: Random House.
+
+<a name="footnote45">[45]</a> Derman-Sparks, L., Ramsey, P. & Olsen Edwards, J.
+(2006). What If All the Kids Are White?: Anti-bias Multicultural Education With
+Young Children And Families. New York: Teachers College Press.
+
+<a name="footnote46">[46]</a> Derman-Sparks, L., & Phillips, C. (1997).
+Teaching/learning anti-racism: A developmental approach. New York: Teachers
+College Press; hooks, b. (1995). Killing rage. New York: Henry Holt & Company;
+Wise, T. (2003). Whites swim in racial preference. Retrieved from
+http://www.academic.udayton.edu/race/04needs/affirm20.htm.
+
+<a name="footnote47">[47]</a> Nagda, B., Zuniga, X., & Sevig, T. (2002).
+Bridging differences through peer facilitated intergroup dialogues p. 115-132.
+In S. Hatcher (Ed.), Peer programs on a college campus: Theory, training, and
+the voices of the peers (pp. 25-41). San Diego, CA: New Resources.
+
+<a name="footnote48">[48]</a> Trepagnier, B. (2006). Silent racism: How
+well-meaning white people perpetuate the racial divide. Boulder, CO: Paridigm
+Publishers; Weber, L. (2001). Understanding race, class, gender, and sexuality:
+A conceptual framework. New York: McGraw-Hill.
+
+<a name="footnote49">[49]</a> Sue, 2003; Bonilla-Silva, E. (2006). Racism
+without racists: Color-blind racism and the persistence of racial inequality in
+the United States (2nd ed). New York: Rowman & Littlefield.
+
+<a name="footnote50">[50]</a> Smith, Andrea (2005). Conquest: Sexual violence
+and American Indian genocide. Cambridge, MA: Southend Press.
+
+<a name="footnote51">[51]</a> hooks, 1989 [citation missing publication title +
+page number]; Lee, T. (1996). Unraveling the “model-minority” stereotype:
+Listening to Asian-American youth. New York: Teachers College Press.
+
+<a name="footnote52">[52]</a> Gee, J.P. (1999). An introduction to discourse
+analysis: Theory and method. London: Routledge; Powell, L. (1997). The
+achievement (k)not: Whiteness and ‘Black Underachievement’. In M. Fine, L.
+Powell, C. Weis, & L. Wong (Eds.), Off White: Readings on race, power and
+society (pp. 3 -12). New York: Routledge.

@@ -1,0 +1,28 @@
+#nav{
+  padding: 30px;
+}
+
+#text{
+  text-align: justify; 
+  font-size:14px; 
+  height: 100vh; 
+  overflow: auto; 
+  padding: 30px;
+}
+
+#right{
+  text-align: right; 
+  padding: 30px;
+}
+
+a{
+  color: #000000;
+}
+
+a:hover{
+  color: #000000;
+}
+
+img {
+  width: 100%;
+}
