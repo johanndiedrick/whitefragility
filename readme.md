@@ -53,8 +53,4 @@ Folders:
 
 `text` - White Fragility by Robin DiAngelo in PDF, Markdown and plain text form
 
-`plain_text` - Plain text verson of PDF
-
-`markdown` - Github flavored Markdown version of plain text
-
 _Part of the [Public Science Winter Residency](http://publicscience.co)_
